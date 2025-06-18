@@ -20,6 +20,8 @@ Currently focusing on:
     ➡ Check my progress here: [Cybersecurity-Daily-Progress](https://github.com/simanta-cyber-dev/Cybersecurity-Daily-Progress)
 
 Let’s Connect:  
-[LinkedIn](#) | [YouTube](#) | [TryHackMe](https://tryhackme.com/p/simanta)
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Simanta-Cyber-Dev)
+| [YouTube](#) | [TryHackMe](https://tryhackme.com/p/simanta)
 
 ---
